@@ -8,4 +8,4 @@ print(greeting +  name)
 hourly_wage = 20
 hours_per_week = 40
 
-income_per_week = 20 * 40
+income_per_week = hourly_wage * hours_per_week
