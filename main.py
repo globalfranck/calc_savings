@@ -13,3 +13,6 @@ income_per_week = hourly_wage * hours_per_week
 weeks_per_year = 48
 
 income_per_year = weeks_per_year * income_per_week
+
+print(name + "'s yearly income is:")
+print(income_per_year)
