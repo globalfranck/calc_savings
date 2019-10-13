@@ -4,3 +4,8 @@
 greeting = "Hello "
 name = "User"
 print(greeting +  name)
+
+hourly_wage = 20
+hours_per_week = 40
+
+income_per_week = 20 * 40
